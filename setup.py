@@ -8,7 +8,7 @@ setuptools.setup(
     platforms=["any"],
     author="anna herlihy",
     author_email="mongodb-user@googlegroups.com, tharun@nineleaps.com",
-    url="https://github.com/tmpaul06/elastic7-doc-manager",
+    url="https://github.com/ergintaban/elastic7-doc-manager",
     install_requires=["mongo-connector>=2.5.0", "importlib_metadata"],
     python_requires=">=3.4",
     extras_require={
